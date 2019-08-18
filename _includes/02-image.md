@@ -1,1 +1,1 @@
-![The Gitty Hub of GitHub](https://octodex.github.com/images/yaktocat.png)
+![ The Gitty Hub of GitHub ](https://octodex.github.com/images/yaktocat.png)
